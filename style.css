@@ -4,5 +4,9 @@
 }
 h1 {
 	font-size: 14px;
+	font-weight: bolder;
 	font-color: red;
+}
+p {
+	font-size: 12px;
 }
